@@ -1,0 +1,122 @@
+body{
+	background-color: #BDE9FC;
+
+}
+
+
+.navbar{
+	color:white;
+	margin-bottom: 50px;
+	background-color: #2C3E50;
+	
+}
+
+
+
+.navbar h2{
+	float:left;
+	text-align: inline block;
+	margin-top: 0px;
+	color:white;
+}
+
+
+
+
+.nav-pills{
+	float:right;
+	text-align: inline block;
+
+}
+
+.jumbotron{
+	text-align: center;
+	background-color: #18BC9C;
+
+}
+
+.about{
+	background-color: #18BC9C;
+
+}
+
+
+
+.about h2{
+	margin-top: 80px;
+	text-align: center;
+	color: white;
+}
+
+.about p{
+	text-align: center;
+	color:white;
+	font-family: 'Slabo 27px', serif;
+	font-size: 27px;
+}
+.p2{
+	text-align: center;
+	margin-bottom: 80px;
+	color:white;
+	font-family: 'Slabo 27px', serif;
+}
+
+
+.rowone img {
+	width:300px;
+	height:200px;
+}
+
+.rowone button{
+	text-align: 50%;
+	margin-bottom: 30px;
+}
+
+
+
+.rowtwo img{
+	width:300px;
+	height:200px;
+}
+
+
+.rowone button{
+	background-color: #E6FE0E;
+	text-align: center;
+
+}
+
+
+
+
+.essentials{
+	background-color: #1AB4A3;
+	text-align: center;
+}
+
+.essentials h2{
+	text-align: center;
+	font-family: 'Slabo 27px', serif;
+	color:white;
+
+}
+.essentials li{
+	list-style-type: none;
+	font-family: 'Slabo 27px', serif;
+	color:white;
+
+}
+footer{
+	margin-top: 30px;
+	background-color: #2C3E50;
+	color:white;
+	text-align: center;
+}
+
+
+i {
+	background-color: blue;
+ 	border-radius: 50%;
+ 	padding:10px;
+
+}
